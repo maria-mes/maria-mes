@@ -1,19 +1,35 @@
-# 🏴‍☠️Hello World! I'm Mariamawit Messay 
+#  👩‍💻 Hello World! I'm Mariamawit Messay 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD700&lines=;Backend+Developer;CSE+Student+at+ASTU;Code+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines="What+I+cannot+create,+I+do+not+understand."+-+Richard+Feynman)](https://git.io/typing-svg)
 
 
 
 ---
 
-#  🌊 About Me:
-A Backend Developer certified by ALX and a 4th year Computer Science & Engineering student at ASTU.<br>’m looking to collaborate on Open‑source projects that involve Django, REST APIs, and MySQL and internships<br>💬 Ask me about Backend development with Django & REST APIs, GitHub collaboration workflows, hackathon experiences, and how to unify frontend theming with CSS variables.
+# 🧾 About Me
+
+** 🎓A Backend Developer certified by ALX**  
+** 💻 4th year Computer Science & Engineering student at ASTU**
+
+---
+
+**🤝 Collaboration:**  
+I’m looking to collaborate on **Open‑source projects** involving **Django, REST APIs, MySQL**, and also open to **internships**.
+
+---
+
+**💬 Ask Me About:**  
+- **Backend development** with **Django & REST APIs**  
+- **GitHub collaboration workflows** (branching, PR reviews, contributor identity)  
+- **Hackathon experiences** and teamwork under pressure  
+- How to **unify frontend theming** with **CSS variables & base.css**
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mariamawit-messay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maramessay655@gmail.com) 
 
-# ⚔️ Tech Arsenal:
+# 🛠️ Tech Arsenal:
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -36,13 +52,14 @@ A Backend Developer certified by ALX and a 4th year Computer Science & Engineeri
 
 ---
 
-## 🎬 Interests
+## 🎯 Interests
 - Authentic frontend design & theming (CSS variables, base.css)  
 - Iterative improvement & troubleshooting  
 - Professional contributor workflows  
- 
+- Meeting and cooperating with new people to share knowledge and build together 
 
 ---
 
-## ☠️ Connect with Me
+
+## 📬 Connect with Me
 [LinkedIn](https://linkedin.com/in/mariamawit-messay-476b77262) • [Email](mailto:maramessay655@gmail.com)
